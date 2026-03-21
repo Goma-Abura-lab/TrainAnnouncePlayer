@@ -1,4 +1,4 @@
-############## TrainAnnouncePlayer v0.9 ReadMe ##############
+<img width="2483" height="651" alt="TrainAnnouncePlayer" src="https://github.com/user-attachments/assets/1e4d9c97-41f6-474b-87f3-d93e08006ff7" />
 
 ###### 1　はじめに ######
 TrainAnnouncePlayer（通称「TAP」）（以下「本アプリ」といいます）をダウンロードしていただき、ありがとうございます。

@@ -66,6 +66,7 @@ https://www.youtube.com/watch?v=DPXNozAzPtI
 
 （3）駅の放送
 以下の方からお借りしました。この場をお借りして、めろでぃトレイン様・はこえだちゃんねる。箱入り枝豆くん様・カレサ様に心からの御礼を申し上げます。
+
 めろでぃトレイン様
 https://youtu.be/TacFfeMPhwA?si=QR0E1urnyvIpwGFg
 

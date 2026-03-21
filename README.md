@@ -68,8 +68,10 @@ https://www.youtube.com/watch?v=DPXNozAzPtI
 以下の方からお借りしました。この場をお借りして、めろでぃトレイン様・はこえだちゃんねる。箱入り枝豆くん様・カレサ様に心からの御礼を申し上げます。
 めろでぃトレイン様
 https://youtu.be/TacFfeMPhwA?si=QR0E1urnyvIpwGFg
+
 はこえだちゃんねる。箱入り枝豆くん様
 https://youtu.be/CU3xKAjN4D8?si=nxz1wx2sEJ4Cn-Jx
+
 カレサ様
 https://youtu.be/-MrfL1ksnxk?si=UQWrLqIhlryAPS-X
 https://youtu.be/H_ZR9FJ6og0?si=CNB_ZxYQxSaZaUjD
@@ -85,6 +87,7 @@ https://youtu.be/H_ZR9FJ6og0?si=CNB_ZxYQxSaZaUjD
 ###### 9　クレジット ######
 開発:ごま油
 ホームページ（https://ilovegt.blog.jp/）
+
 メールアドレス（gomaabura@protonmail.com）
 
 本アプリはGoogle Antigravityを使用して開発しました。

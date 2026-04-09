@@ -61,21 +61,54 @@ https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html
 A copy of the license is included in this distribution as "Licenses\OFL.txt".
 
 （2）車内放送  
-µ'Wing様からお借りしました。この場をお借りしてµ'Wing様に心からの御礼を申し上げます。  
-https://www.youtube.com/watch?v=DPXNozAzPtI  
+以下の方からお借りしました。この場をお借りしてµ'Wing様・金井庄戸様に心からの御礼を申し上げます。  
+µ'Wing様  
+https://youtu.be/DPXNozAzPtI?si=7JQ0wn0hPpv9IOx7  
+金井庄戸様  
+https://youtu.be/3KFUvGkkpPw?si=Zi4BEWK794p8LFAM  
 
 （3）駅の放送  
-以下の方からお借りしました。この場をお借りして、めろでぃトレイン様・はこえだちゃんねる。箱入り枝豆くん様・カレサ様に心からの御礼を申し上げます。
-
-めろでぃトレイン様  
-https://youtu.be/TacFfeMPhwA?si=QR0E1urnyvIpwGFg
-
-はこえだちゃんねる。箱入り枝豆くん様  
-https://youtu.be/CU3xKAjN4D8?si=nxz1wx2sEJ4Cn-Jx
+以下の方からお借りしました。この場をお借りして、カレサ様・ミツエー様・でんえんろまん様・SR. 5700.5300様・ひしゃく様・海岸3世様に心からの御礼を申し上げます。  
+特にミツエー様にはたくさん戸閉放送の音源をお借りさせていただきました。本当にありがとうございます！  
 
 カレサ様  
 https://youtu.be/-MrfL1ksnxk?si=UQWrLqIhlryAPS-X  
 https://youtu.be/H_ZR9FJ6og0?si=CNB_ZxYQxSaZaUjD  
+https://youtu.be/L7_aZzUOAFU?si=k3fYDF07J08UweNz  
+https://youtu.be/j7E6Ro74mus?si=ff-XqfQ8RGq_cEc-  
+
+ミツエー様  
+https://youtu.be/jMEzv8a9anc?si=472sO9wbPUsYHM4R  
+https://youtu.be/iUXtNWq3gJw?si=yXcVLI0BFKn_VyEm  
+https://youtu.be/KNbOX4SXYU0?si=08mVLcIOUgUGBG2r  
+https://youtu.be/CFV9wTD-0bU?si=t6lsTvYZu9tQRjqb  
+https://youtu.be/Spa7CN8XGFA?si=_5RyVyBe7OwePgcR  
+https://youtu.be/PJ_C7Fk-w0o?si=3NEX7n-N6Q3uUzJp  
+https://youtu.be/SLWYFFZ-gHk?si=0PVH2lhBQt5RYAac  
+https://youtu.be/JpPyUjcBTG4?si=fHGwN5g-vFaAEAzy  
+https://youtu.be/kLRSpBQxYkA?si=5uzyNyFS7rr-eaLy  
+https://youtu.be/mpI5zzngWbQ?si=w5kYBTNg7BWKIO6H  
+https://youtu.be/lEKtSH2B3Ts?si=ogDG4vGnKv9-nzfk  
+https://youtu.be/EPSbsdJP8C0?si=RX18kD7qvimSSUQg  
+https://youtu.be/Vuvp1Rs8YKA?si=EaJVIL-78fFWBcRa  
+https://youtu.be/w5rqHUbMNzc?si=iU-M3WEXUiJAemjr  
+https://youtu.be/bMhVhN70_pk?si=B_ijIzySk40jbsNf  
+
+でんえんろまん様  
+https://youtu.be/e6M3Y9WEYvg?si=UopnQMd_Yh7yp8jS  
+
+SR. 5700.5300様  
+https://youtu.be/LInjUuFK3zc?si=7xf7AoCl7hENMqYW  
+
+ひしゃく様  
+https://youtu.be/zesCtjrCyA0?si=GOPhJ0qU-CuMFtIT  
+
+海岸3世様  
+http://kaigansansei.ehoh.net/  
+
+（4）駅メロについて  
+以下にクレジットを表記いたします  
+https://www.te2do.jp/  
 
 ###### 7　今後の展望 ######
 たくさんのサウンドファイルを追加すればバリエーションが広がるので追加していきたいです。特にATOS放送(駅名連呼や戸閉放送)は積極的に追加したいと思っています。
